@@ -10,7 +10,7 @@ if(isset($_POST['subutton']))
 
     $to="dlatiwari707@gmail.com";
 
-    $subject="Contact:form for Nirbhaycommunication";
+    $subject="Contact:form for Amit Kumar";
  
     $headers = "From: webmaster@example.com" . "\r\n" .
 "CC:dlatiwari707@gmail.com"; 
